@@ -1,0 +1,2 @@
+query_name = 'Bugs Added and Removed from Tracking for Firefox 17 after 10/09/2012 and before 11/19/2012'
+query_url = 'https://bugzilla.mozilla.org/buglist.cgi?type0-1-0=changedbefore;list_id=5124107;field0-1-0=cf_tracking_firefox17;field0-0-0=cf_tracking_firefox17;chfieldto=2012-11-19;query_format=advanced;chfield=resolution;value0-2-0=FIXED%2C%20UNAFFECTED%2C%20VERIFIED%2C%20DISABLED;chfieldfrom=2012-10-09;value0-1-0=2012-11-19;chfieldvalue=FIXED;field0-2-0=cf_status_firefox17;type0-0-0=changedafter;value0-0-0=2012-10-09;type0-2-0=nowordssubstr'
